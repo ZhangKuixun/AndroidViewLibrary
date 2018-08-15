@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--帧动画-->
+    <string-array name="loading_anim">
+        <item>@drawable/eff_loading_01</item>
+        <item>@drawable/eff_loading_02</item>
+        <item>@drawable/eff_loading_03</item>
+        <item>@drawable/eff_loading_04</item>
+        <item>@drawable/eff_loading_05</item>
+        <item>@drawable/eff_loading_06</item>
+        <item>@drawable/eff_loading_07</item>
+        <item>@drawable/eff_loading_08</item>
+        <item>@drawable/eff_loading_09</item>
+        <item>@drawable/eff_loading_10</item>
+        <item>@drawable/eff_loading_11</item>
+        <item>@drawable/eff_loading_12</item>
+        <item>@drawable/eff_loading_13</item>
+        <item>@drawable/eff_loading_14</item>
+    </string-array>
+</resources>
