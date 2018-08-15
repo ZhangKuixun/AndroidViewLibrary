@@ -21,4 +21,6 @@ android {
 
 dependencies {
     api var.SupportV7
+
+    implementation "com.github.ZhangKuixun:AndroidUtilCode:2.0"
 }

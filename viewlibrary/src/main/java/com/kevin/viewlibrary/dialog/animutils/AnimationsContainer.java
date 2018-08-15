@@ -9,7 +9,7 @@ import android.os.Handler;
 import android.widget.ImageView;
 
 import com.blankj.utilcode.util.Utils;
-import com.kevin.framework.R;
+import com.kevin.viewlibrary.R;
 
 import java.lang.ref.SoftReference;
 
