@@ -17,10 +17,14 @@ android {
         }
     }
 
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
 }
 
 dependencies {
     api var.SupportV7
-
-    implementation "com.github.ZhangKuixun:AndroidUtilCode:2.0"
+    api var.SupportDesign
+    implementation 'com.github.ZhangKuixun:AndroidUtilCode:2.0'
 }
